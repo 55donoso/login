@@ -1,0 +1,24 @@
+ " = " se utiliza para asignar un valor a una variable.
+ " == " se utiliza para comparar dos valores y determinar si son iguales.
+ " || " se utiliza como un operador lógico de "o" para evaluar si al menos una de las dos condiciones es verdadera.
+ " != " se utiliza para comparar dos valores y determinar si son diferentes.
+ " === " se utiliza para comparar dos valores y determinar si son iguales en valor y en tipo de datos.
+ " && " se utiliza como un operador lógico de "y" para evaluar si ambas condiciones son verdaderas.
+ " ? " se utiliza como un operador ternario para asignar un valor a una variable según una condición.
+
+El operador "+": se utiliza para sumar dos valores o concatenar dos cadenas.
+El operador "-": se utiliza para restar dos valores.
+El operador "*": se utiliza para multiplicar dos valores.
+El operador "/": se utiliza para dividir dos valores.
+El operador "%": se utiliza para obtener el resto de la división entre dos valores.
+El operador ">": se utiliza para evaluar si un valor es mayor que otro.
+El operador "<": se utiliza para evaluar si un valor es menor que otro.
+El operador ">=": se utiliza para evaluar si un valor es mayor o igual que otro.
+El operador "<=": se utiliza para evaluar si un valor es menor o igual que otro.
+El operador "++": se utiliza para incrementar el valor de una variable en 1.
+El operador "--": se utiliza para decrementar el valor de una variable en 1.
+El operador "&": se utiliza para realizar una operación "and" a nivel de bits.
+El operador "|": se utiliza para realizar una operación "or" a nivel de bits.
+El operador "^": se utiliza para realizar una operación "xor" a nivel de bits.
+El operador "<<": se utiliza para desplazar a la izquierda los bits de un valor.
+El operador ">>": se utiliza para desplazar a la derecha los bits de un valor.
